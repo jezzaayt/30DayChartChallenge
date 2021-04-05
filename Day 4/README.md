@@ -1,5 +1,5 @@
-# magical-lotr
-Day 4 of #30DayChartChallenge 
+# Day 4 of #30DayChartChallenge 
+
 
 Day 4 was magical so I went with Ainurs in Lord of the Rings aka Saruman and Gandalf. 
 
