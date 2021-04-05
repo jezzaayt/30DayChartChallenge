@@ -5,3 +5,6 @@ All completed within R. Building on my own knowledge
 
 
 ![European Countries slope graph showing current health expenditure % of GDP](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%205/European%20Countries.png)
+
+
+![Countries visited by author](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%205/countries_visited.png)
