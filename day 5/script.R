@@ -32,7 +32,8 @@ newggslopegraph(df_eu,  Year, Value, Countries, Title = "European Countries  Cur
                 Caption = caption,
                 YTextSize = 3,
                 LineThickness = 2,
-                WiderLabels = TRUE)
+                WiderLabels = TRUE,
+                SubTitle = NULL)
 
 target_visited <- c("Austria", "United Kingdom", "Belgium", "Netherlands", "Austria", "South Africa", "Egypt",
                     "Luxembourg", "Italy", "France")
