@@ -23,7 +23,7 @@ ggplot(coffee, aes(x= country_of_origin, y = total_cup_points, fill = country_of
   geom_violin(show.legend = F) +coord_flip() + scale_fill_viridis(discrete=TRUE) + theme_ipsum_pub() + 
   scale_color_viridis(discrete=T) + 
   labs(title = "Coffee ratings by country",
-       caption = "Visuaslisation by https://github.com/jezzaayt ")+
+       caption = "Jezza A | https://github.com/jezzaayt")+
   xlab(label = "Country of Origin") + ylab(label = "Total Cup Points") +
   scale_y_continuous( limits=c(76,88), breaks = seq(76,88, by = 2), minor_breaks = seq(76,88, by = 1))
 
@@ -32,7 +32,7 @@ ggplot(coffee_variety, aes(x= variety, y = total_cup_points, fill = variety) )+
   geom_violin(show.legend = F) +coord_flip() + scale_fill_viridis(discrete=TRUE) + theme_ipsum_pub() + 
   scale_color_viridis(discrete=T) + 
   labs(title = "Coffee ratings by variety",
-       caption = "Visuaslisation by https://github.com/jezzaayt ")+
+       caption = "Jezza A | https://github.com/jezzaayt")+
   xlab(label = "Variety") + ylab(label = "Total Cup Points")
 
 # Due to na.omit it omits a large number of the coffee 
