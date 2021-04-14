@@ -28,14 +28,14 @@ I may not have done all days as did not have time to do on X day or unsure on ho
 ![chick weight distribution by diet](https://raw.githubusercontent.com/jezzaayt/30DayChartChallenge/main/day%207/Order%20Chicks%20by%20heaviest.png)
 
 
-## Day 8 
+## Day 8 Animals
 
 ![Palmer penguins density distribution across penguin species](https://raw.githubusercontent.com/jezzaayt/30DayChartChallenge/main/day%208/Palmer%20Penguins.png)
 
-## Day 9 
+## Day 9 Statistics 
 ![Coffee Ratings by Countries](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%209/coffee_country.png)
 
 # Relationships
 
-## Day 14  - Space
+## Day 14 Space
 ![UFOs over time](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2014/UFO%20over%20time%20spike.png)
