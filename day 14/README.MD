@@ -9,5 +9,5 @@ Showing the relationship over time with the amount of UFO sightings/reports. By 
 
 ![UFO Sightings](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2014/UFO%20over%20time%20spike.png)
 
-Then using the ggforce library I used a facet_zoom to zoom into the famous year of the Roswell crash. Showing there were 2 other reports of UFOs in this year 
+Then using the ggforce library I used a facet_zoom to zoom into the famous year of the Roswell crash. Showing there were 32 other reports of UFOs in this year 
 ![roswell crash year](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2014/UFOroswell%20crash%20year.png)
