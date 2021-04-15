@@ -5,7 +5,7 @@ Group of days that I have done for the 30DayChartChallenge seen [here](https://g
 I may not have done all days as did not have time to do on X day or unsure on how to do X graph. 
 
 # Comparisons
-## Day 2 Pictogram
+## Day 1 - Part to whole
 
 ![Bird waffle plot](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%202/Bird_waffle_plot.png)
 
