@@ -7,7 +7,7 @@ I may not have done all days as did not have time to do on X day or unsure on ho
 # Comparisons
 ## Day 1 - Part to whole
 
-![Bird waffle plot](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%202/Bird_waffle_plot.png)
+![Bird waffle plot](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%201/Bird_waffle_plot.png)
 
 ## Day 4 Magical
 
