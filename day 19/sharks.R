@@ -45,11 +45,12 @@ top_df$Country
 top_sharks_plot <- ggplot(top_df, aes( x = Year, y = Per_Year, fill = Country)) + geom_bar(position="dodge", stat="identity")  + 
   theme_minimal() + 
   labs(title = "Shark Attacks between Females and Males over years across the globe between 2008 - 2018", y = "Number of Attacks Per Year") +
-  scale_y_continuous(breaks=seq(0,65, by = 5))  + scale_x_continuous(labels=as.character(df$Year), breaks=df$Year)
+  scale_y_continuous(breaks=seq(0,80, by = 5))  + scale_x_continuous(labels=as.character(df$Year), breaks=df$Year)
 top_sharks_plot <- top_sharks_plot + geom_line(top_df, mapping = aes(x = Year, y = Attacks_per_gender_per_year, color = Sex), stat="unique", linetype=1, size = 1)+
   scale_color_manual(values=c("#FEE715FF", "#101820FF"))+
   facet_wrap(~Country)
-
+top_sharks_plot
+max(top_df$Per_Year)
 
 ggsave(top_sharks_plot, width =35, height = 25, units = "cm", filename = "shark_attacks_top5_countries.png")
 
