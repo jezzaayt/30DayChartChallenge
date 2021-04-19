@@ -39,3 +39,8 @@ I may not have done all days as did not have time to do on X day or unsure on ho
 
 ## Day 14 Space
 ![UFOs over time](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2014/UFO%20over%20time%20spike.png)
+
+
+# Time Series 
+## Day 19 Global Change
+![Shark attacks](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2019/shark_attacks_top_5_countries.png)
