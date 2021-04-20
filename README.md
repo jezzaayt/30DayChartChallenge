@@ -44,3 +44,7 @@ I may not have done all days as did not have time to do on X day or unsure on ho
 # Time Series 
 ## Day 19 Global Change
 ![Shark attacks](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2019/shark_attacks_top_5_countries.png)
+
+## Day 20 Upwards 
+
+![DOGE in April 2021](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2020/doge_april_2021.png)
