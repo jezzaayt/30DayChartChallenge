@@ -48,3 +48,7 @@ I may not have done all days as did not have time to do on X day or unsure on ho
 ## Day 20 Upwards 
 
 ![DOGE in April 2021](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2020/doge_april_2021.png)
+
+
+## Day 21 Downwards
+![Survivor ratings 2000 x 2020](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2021/survivor.png)
