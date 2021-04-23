@@ -52,3 +52,11 @@ I may not have done all days as did not have time to do on X day or unsure on ho
 
 ## Day 21 Downwards
 ![Survivor ratings 2000 x 2020](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2021/survivor.png)
+
+
+## Day 22 Animation 
+![Meteorites](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2022/meteorites.gif)
+
+## Day 23 Tiles
+
+No Image as used plotly for interactivity - unfortunately. 
