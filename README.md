@@ -60,3 +60,7 @@ I may not have done all days as did not have time to do on X day or unsure on ho
 ## Day 23 Tiles
 
 No Image as used plotly for interactivity - unfortunately. 
+
+## Day 24 Monochrome 
+
+![Apple CEOs](https://github.com/jezzaayt/30DayChartChallenge/blob/main/day%2024/appleceos.png)
