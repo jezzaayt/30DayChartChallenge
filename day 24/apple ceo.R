@@ -1,5 +1,6 @@
 library(tidyverse)
 library(timevis)
+library(ggrepel)
 # For #30DayChartChallenge day 24 Timeseries Monochrome
 # Data from https://www.kaggle.com/ahdvnd/database-for-ceo-dismissal-19922018
 
@@ -50,12 +51,15 @@ timevis(df)
 
 df
 class(df$`Still There`)
-apple_ceo <- ggplot( df, aes(x = start, xend = end , yend = content, y = content, group = 1)) +  geom_point() + geom_segment() +
+apple_ceo <- ggplot( df, aes(x = start, xend = end , yend = content, y = content, group = 1)) +  geom_point() +
+geom_segment() +
   labs(title = "Apple CEOs over time",
        subtitle = "This data is from Gentry et al (2021) and can be accessed here:\nhttps://onlinelibrary.wiley.com/doi/10.1002/smj.3278?af=R",
        caption = "By @Jezzaayt | https://github.com/jezzaayt/",
        x = "CEO Start Year",
-       y = "CEO") 
+       y = "CEO") + geom_label_repel(aes(label = as.character( start)), nudge_y = 0.5)
+apple_ceo 
+
 # Geom segment receives an error as Tim Cook end date is NA as he is still current CEO
 
 ggsave("appleceos.png", apple_ceo, scale = 1.5)
