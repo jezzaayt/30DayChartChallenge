@@ -44,7 +44,7 @@ df
 df_m <- df %>% filter(df$sex == "M") %>% e_charts(species) %>% e_pictorial(n, symbol = dolphin_path,symbolRepeat =TRUE, z=-1, symbolSize = c(20,20)) %>% 
   e_theme("westeros") %>% e_x_axis(splitLine = list(show=FALSE)) %>%
   e_flip_coords()%>% e_labels(fontSize = 12, position="right") %>% e_legend(FALSE)%>% 
-  e_title("Visualisation By Jeremy A @JezzaAyt\nCount of male species in Cetacean dataset")
+  e_title("Visualisation By Jeremy A@JezzaAyt\nCount of male species in Cetacean dataset")
 df_f <- df %>% filter(df$sex == "F") %>% e_charts(species) %>% e_pictorial(n, symbol = dolphin_path,symbolRepeat =TRUE, z=-1, symbolSize = c(20,20)) %>% 
   e_theme("westeros") %>% e_x_axis(splitLine = list(show=FALSE)) %>%
   e_flip_coords()%>% e_labels(fontSize = 12, position="right") %>% e_legend(FALSE) %>% 
