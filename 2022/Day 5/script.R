@@ -18,5 +18,5 @@ ggplot(df2, aes(x=Dates, y = Count , color = `Local Authority`)) +
   scale_x_continuous(breaks = c(2019, 2020)) + geom_label_repel(aes(label= Count)) +
   labs(title = "Comparison of the Amount of Car Traffic Flow in 2019 vs 2020",
        subtitle = "Data source: data.london.gov.uk", 
-       caption = "Visualisation: Jeremy A\nhttps://github.com/jezzaayt\n@JezzaAyt") + theme_bw()
+       caption = "Visualisation: Jeremy A\nhttps://github.com/jezzaayt\n@JezzaAyt") + theme_classic() + theme_minimal()
 
